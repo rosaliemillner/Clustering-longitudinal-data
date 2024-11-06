@@ -4,7 +4,7 @@ This project implements a clustering algorithm for longitudinal data described b
 
 The algorithm has been developed for sociological life trajectories, but can more generally be applied to handle any kind of longitudinal data, as long as the variables are categorical. The goal of the algorithm is to identify clusters of similar sequence observations and to model the underlying distribution of the data within each group.
 
-For more detail, [cf the rapport?]
+For more detail, check the file `REPORT_research.pdf`.
 
 ### Usage
 
