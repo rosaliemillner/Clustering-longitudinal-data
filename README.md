@@ -6,6 +6,8 @@ The algorithm has been developed for sociological life trajectories, but can mor
 
 For more detail, check the file `REPORT_research.pdf`.
 
+A lot of the study is based on Cardot et al.'s work in "_Estimating finite mixtures of semi-markov chains: an application to the segmentation of temporal sensory data._" (2018).
+
 ### Usage
 
 To use the algorithm, one needs to provide a dataset of longitudinal data, which should be a CSV file (or a txt file) with the following format:
