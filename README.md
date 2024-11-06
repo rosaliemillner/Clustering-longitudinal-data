@@ -17,7 +17,7 @@ The algorithm knows how to handle sequences of varying lengths. So be careful to
 
 N.B: A function is then employed in the code to directly process the data in order to convert it to a more specific format that is adapted to the model. This format corresponds to the modeling of semi-Markov chains, where for each sequence is associated 2 lists: one for the successive visited states and another for the associated sojourn times.
 
-**To run the algorithm, one should refer to the file `main.R`.**  This is an example template of how to use the algorithm.
+**To run the algorithm, one should refer to the file `main.R`.**  This is an example template of how to use the code.
 
 In output, one should have a list with the recap of the results (including the optimal number of clusters using the BIC criterion, the semi-Markov parameters characterising each cluster, as well as a few more analytical parameters).
 
