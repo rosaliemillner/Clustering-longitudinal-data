@@ -1,4 +1,4 @@
-# **Clustering of Longitudinal Data via Probabilistic Models: the case of Semi-Markov Mixtures**
+# **Clustering of Longitudinal Data via Probabilistic Models: the case of Semi-Markov Chain Mixtures**
 
 This project implements a clustering algorithm for longitudinal data described by categorical variables, using a probabilistic model: Mixtures of Semi-Markov Chains. 
 
